@@ -1,9 +1,9 @@
 # php-files-recursive-search
 
 ## Description
-1. We need to find all files that match regex recursively
-2. Assume that file's content is only number
-3. Make sum of all numbers of this found files
+* We need to find all files that match regex recursively
+* Assume that file's content is only number
+* Make sum of all numbers of this found files
 
 1. You can add new folder on any level inside `test-folder`
 2. And add new count.txt file with your own number
