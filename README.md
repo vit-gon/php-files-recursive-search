@@ -6,7 +6,7 @@
 * Make sum of all numbers of this found files
 
 1. You can add new folder on any level inside `test-folder`
-2. And add new count.txt file with your own number
+2. And create new count.txt file with your own number
 3. Run index.php and check that sum was changed
 
 ## How to use it
